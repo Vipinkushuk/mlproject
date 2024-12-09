@@ -1,4 +1,5 @@
 # ml project
+![Project screenshot](https://github.com/Vipinkushuk/mlproject/blob/main/Screenshot%202024-07-05%20143411.png?raw=true)
 
 Student Score Prediction using Machine Learning
 This project aims to predict student scores based on various external factors such as study hours, socioeconomic background, attendance, extracurricular activities, and more. By leveraging machine learning techniques, the goal is to identify the most effective algorithm for accurately predicting student performance.
